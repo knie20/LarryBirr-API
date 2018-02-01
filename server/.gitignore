@@ -1,3 +1,4 @@
 #Visual Studio Solution Specific Files
 *.sln
 *.csproj.user
+/.vs
