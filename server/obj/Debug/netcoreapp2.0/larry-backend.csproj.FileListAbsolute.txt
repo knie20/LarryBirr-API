@@ -8,3 +8,14 @@
 /home/kaidong/VSCProjects/larry-backend/server/obj/Debug/netcoreapp2.0/larry-backend.AssemblyInfo.cs
 /home/kaidong/VSCProjects/larry-backend/server/obj/Debug/netcoreapp2.0/larry-backend.dll
 /home/kaidong/VSCProjects/larry-backend/server/obj/Debug/netcoreapp2.0/larry-backend.pdb
+E:\LarryBirr\server\bin\Debug\netcoreapp2.0\larry-backend.deps.json
+E:\LarryBirr\server\bin\Debug\netcoreapp2.0\larry-backend.runtimeconfig.json
+E:\LarryBirr\server\bin\Debug\netcoreapp2.0\larry-backend.runtimeconfig.dev.json
+E:\LarryBirr\server\bin\Debug\netcoreapp2.0\larry-backend.dll
+E:\LarryBirr\server\bin\Debug\netcoreapp2.0\larry-backend.pdb
+E:\LarryBirr\server\obj\Debug\netcoreapp2.0\larry-backend.csprojResolveAssemblyReference.cache
+E:\LarryBirr\server\obj\Debug\netcoreapp2.0\larry-backend.csproj.CoreCompileInputs.cache
+E:\LarryBirr\server\obj\Debug\netcoreapp2.0\larry-backend.AssemblyInfoInputs.cache
+E:\LarryBirr\server\obj\Debug\netcoreapp2.0\larry-backend.AssemblyInfo.cs
+E:\LarryBirr\server\obj\Debug\netcoreapp2.0\larry-backend.dll
+E:\LarryBirr\server\obj\Debug\netcoreapp2.0\larry-backend.pdb
